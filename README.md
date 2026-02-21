@@ -43,4 +43,5 @@ I believe consistency and practical experience are the fastest way to grow as a 
 ---
 
 ### 📫 Contact
-(You can add your LinkedIn here later)
+correo: kotlin.nativo@gmail.com
+Linkedin: https://www.linkedin.com/in/armando-porras-922176386/
